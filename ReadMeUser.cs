@@ -8,5 +8,6 @@ namespace Homework3._7
 {
     internal class ReadMeUser
     {
+        public int Id { get; set; }
     }
 }
